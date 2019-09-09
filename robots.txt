@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahyaiwiwo.kennethlai.co/sitemap.xml
